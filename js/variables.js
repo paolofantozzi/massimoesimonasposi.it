@@ -16,8 +16,10 @@ var hero_full_screen = true;                    //If true, the hero section will
 
 //HERO BACKGROUND SLIDESHOW IMAGES
 var slidehow_images = [
-    "https://placehold.co/1920x1080.png",
-    "https://placehold.co/1920x1080.png"
+    "images/slideshow_hero_1.jpg",
+    "images/slideshow_hero_2.jpg",
+    "images/slideshow_hero_3.jpeg",
+    "images/slideshow_hero_4.jpeg"
 ];
 
 //TIMELINE PARALLAX
